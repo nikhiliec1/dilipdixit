@@ -31989,7 +31989,7 @@ A.UT.prototype={
 $0(){A.oB(A.kV(this.a.dD(0,"google_map_url","https://www.google.com"),0,null))},
 $S:0}
 A.UU.prototype={
-$0(){var s=A.a4v("assets/vcard.vcf")
+$0(){var s=A.a4v("assets/assets/vcard.vcf")
 s.download="dilip_dixit"
 s.click()},
 $S:0}
