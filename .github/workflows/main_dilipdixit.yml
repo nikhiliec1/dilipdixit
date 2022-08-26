@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'dilipdixit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9CA30FCAE5A4EA9B40B7660BC61A441 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B27FF60914AB4E4B82E0572585227367 }}
           package: .
